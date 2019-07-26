@@ -1,4 +1,4 @@
 # hello-world
-we are forced to do this
+we are editing this!
 
 This is a project 1 practice activity!
